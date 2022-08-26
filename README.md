@@ -6,3 +6,6 @@ Malaysia: Java, JS
 Hong Kong: Java, JS
 Australia Java, Software Arch.
 Singapore: BA, Java, Agile coach
+
+
+Epam Turkey https://www.epam.com/careers/join-emakina-an-epam-company-in-turkiye
